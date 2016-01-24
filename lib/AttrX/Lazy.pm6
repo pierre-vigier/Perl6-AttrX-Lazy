@@ -117,6 +117,13 @@ The builder method name can be changed like the following:
         }
     }
 
+=head1 NOTES
+
+Another approach to the same probleme here: https://github.com/jonathanstowe/Attribute-Lazy
+
+Hopefully, lazyness of attribute at one point will be integrated in perl6 core, and
+AttrX::Lazy will become useless
+
 =head1 MISC
 
 To test the meta data of the modules, set environement variable PERL6_TEST_META to 1

@@ -59,6 +59,13 @@ The builder method name can be changed like the following:
         }
     }
 
+NOTES
+=====
+
+Another approach to the same probleme here: https://github.com/jonathanstowe/Attribute-Lazy
+
+Hopefully, lazyness of attribute at one point will be integrated in perl6 core, and AttrX::Lazy will become useless
+
 MISC
 ====
 
